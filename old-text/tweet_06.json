@@ -3,11 +3,11 @@
         "config": {
             "numberOfElements": 12
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "Your part enters the "
             ],
-            "part_02": [
+            [
                 "Laughing ",
                 "Howling ",
                 "Sleeping ",
@@ -29,7 +29,7 @@
                 "Fancy ",
                 "Regal "
             ],
-            "part_03": [
+            [
                 "Hyhena",
                 "Aligator",
                 "Crocodile",
@@ -45,17 +45,17 @@
                 "Fox",
                 "Beagle"
             ],
-            "part_04": [
+            [
                 " Inn",
                 " Tavern"
             ],
-            "part_05": [
+            [
                 ".\n"
             ],
-            "part_06": [
+            [
                 "You see "
             ],
-            "part_07": [
+            [
                 "a tall",
                 "a short",
                 "a wide",
@@ -93,11 +93,11 @@
                 "a stoned",
                 "a horny"
             ],
-            "part_08": [
+            [
                 " male ",
                 " female "
             ],
-            "part_09": [
+            [
                 "human ",
                 "orc ",
                 "elf ",
@@ -120,7 +120,7 @@
                 "widow of the Civil War ",
                 "mail order bride "
             ],
-            "part_10": [
+            [
                 "call",
                 "beckon",
                 "wave at",
@@ -143,10 +143,10 @@
                 "judgingly snort at",
                 "expose themself to"
             ],
-            "part_11": [
+            [
                 " you from "
             ],
-            "part_12": [
+            [
                 "beside the fire",
                 "by the bar",
                 "near the back",
@@ -160,6 +160,6 @@
                 "the floor by the door",
                 "hearthside"
             ]
-        }
+        ]
     }
 }

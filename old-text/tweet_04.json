@@ -3,11 +3,11 @@
         "config": {
             "numberOfElements": 19
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "Your party "
             ],
-            "part_02": [
+            [
                 "walks ",
                 "crawls",
                 "slinks",
@@ -15,10 +15,10 @@
                 "sneaks",
                 "moves"
             ],
-            "part_03": [
+            [
                 " through the "
             ],
-            "part_04": [
+            [
                 "Forrest",
                 "Swamp",
                 "Land",
@@ -40,10 +40,10 @@
                 "Fog",
                 "Shadows"
             ],
-            "part_05": [
+            [
                 " of "
             ],
-            "part_06": [
+            [
                 "Dirty ",
                 "Murky ",
                 "Dangerous ",
@@ -68,7 +68,7 @@
                 "Tranquil ",
                 "Enraged "
             ],
-            "part_07": [
+            [
                 "Chivalry",
                 "Hope",
                 "Death",
@@ -95,13 +95,13 @@
                 "Spiders",
                 "Rabid Dogs"
             ],
-            "part_08": [
+            [
                 ".\n"
             ],
-            "part_09": [
+            [
                 "You consume your "
             ],
-            "part_10": [
+            [
                 "bowl",
                 "cauldron",
                 "vial",
@@ -115,10 +115,10 @@
                 "shotglass",
                 "beer stein"
             ],
-            "part_11": [
+            [
                 " of "
             ],
-            "part_12": [
+            [
                 "Eggy ",
                 "Protien ",
                 "Mystery ",
@@ -144,7 +144,7 @@
                 "Lust ",
                 "Healing "
             ],
-            "part_13": [
+            [
                 "Liquid",
                 "Brew",
                 "Salve",
@@ -157,18 +157,18 @@
                 "Desert Treat",
                 "Matter"
             ],
-            "part_14": [
+            [
                 ".\n"
             ],
-            "part_15": [
+            [
                 "Add +"
             ],
-            "part_16": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_17": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_18": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [
                 " to "
             ],
-            "part_19": [
+            [
                 "intelligence",
                 "charm",
                 "irony",
@@ -180,6 +180,6 @@
                 "recovery",
                 "stamina"
             ]
-        }
+        ]
     }
 }

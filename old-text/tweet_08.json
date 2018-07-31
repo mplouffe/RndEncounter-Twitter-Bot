@@ -3,8 +3,8 @@
         "config": {
             "numberOfElements": 15
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "Ocas",
                 "Beorthni",
                 "Manvia",
@@ -46,10 +46,10 @@
                 "Loclac",
                 "Lafrolald"
             ],
-            "part_02": [
+            [
                 " the "
             ],
-            "part_03": [
+            [
                 "Wizard",
                 "Thief",
                 "Orc",
@@ -100,23 +100,23 @@
                 "Trainee from IT",
                 "Welsh Fish Monger"
             ],
-            "part_04": [
+            [
                 " shouted",
                 " yelled",
                 " whispered",
                 " said",
                 " wrote"
             ],
-            "part_05": [
+            [
                 ", '"
             ],
-            "part_06": [
+            [
                 "Some",
                 "A few",
                 "All the",
                 "Too many"
             ],
-            "part_07": [
+            [
                 " humans",
                 " people",
                 " beings",
@@ -145,14 +145,14 @@
                 " queens",
                 " princesses"
             ],
-            "part_08": [
+            [
                 " can be",
                 " can not be",
                 " are",
                 " tend to be",
                 " tend not to be"
             ],
-            "part_09": [
+            [
                 " agressive",
                 " stinky",
                 " outrageous",
@@ -170,16 +170,16 @@
                 " excited by dogs",
                 " in love with themselves"
             ],
-            "part_10": [
+            [
                 ", but "
             ],
-            "part_11": [
+            [
                 "some",
                 "any",
                 "all",
                 "most"
             ],
-            "part_12": [
+            [
                 " humans",
                 " people",
                 " beings",
@@ -208,14 +208,14 @@
                 " queens",
                 " princesses"
             ],
-            "part_13": [
+            [
                 " can be",
                 " can not be",
                 " are",
                 " tend to be",
                 " tend not to be"
             ],
-            "part_14": [
+            [
                 " agressive",
                 " stinky",
                 " outrageous",
@@ -233,9 +233,9 @@
                 " excited by dogs",
                 " in love with themselves"
             ],
-            "part_15": [
+            [
                 ".'"
             ]
-        }
+        ]
     }
 }

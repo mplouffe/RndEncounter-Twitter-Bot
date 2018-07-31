@@ -1,13 +1,14 @@
 {
     "tweet": {
         "config": {
-            "numberOfElements": 19
+            "numberOfElements": 19,
+            "sample": "The BULKY BEAST is killed!!!\nGain 12 EXP.\nGain 45 Bronze.\nFound 3 Power Beans."
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "The "
             ],
-            "part_02": [
+            [
                 "BULKY ",
                 "THICK ",
                 "STOCKY ",
@@ -15,7 +16,7 @@
                 "MISUNDERSTOOD ",
                 "MUMBLING "
             ],
-            "part_03": [
+            [
                 "APPARATION",
                 "BEAST",
                 "BOGEYMAN",
@@ -55,10 +56,10 @@
                 "UNICORN",
                 "VAMPIRE"
             ],
-            "part_04": [
+            [
                 " is "
             ],
-            "part_05": [
+            [
                 "killed",
                 "destroyed",
                 "buried",
@@ -69,23 +70,23 @@
                 "slain",
                 "obliterated"
             ],
-            "part_06": [
+            [
                 "!!!\n"
             ],
-            "part_07": [
+            [
                 "Gain "
             ],
-            "part_08": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_09": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_10": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [
                 " EXP.\n"
             ],
-            "part_11": [
+            [
                 "Gain "
             ],
-            "part_12": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_13": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_14": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [
                 " Bronze",
                 " Silver",
                 " Gold",
@@ -98,14 +99,14 @@
                 " Reward Miles",
                 " Slimy Coins"
             ],
-            "part_15": [
+            [
                 ".\n"
             ],
-            "part_16": [
+            [
                 "Found "
             ],
-            "part_17": [ 2,3,4,5,6 ],
-            "part_18": [
+            [ 2,3,4,5,6 ],
+            [
                 " Vintage",
                 " Lucky",
                 " Chaotic",
@@ -123,7 +124,7 @@
                 " Ornate",
                 " Gold"
             ],
-            "part_19": [
+            [
                 " Potions.",
                 " Beads.",
                 " Jewels.",
@@ -139,6 +140,6 @@
                 " Cases.",
                 " Buttons."
             ]
-        }
+        ]
     }
 }

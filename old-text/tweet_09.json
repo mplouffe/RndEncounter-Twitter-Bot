@@ -3,8 +3,8 @@
         "config": {
             "numberOfElements": 15
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "Letttri",
                 "Sanegar",
                 "Aldcar",
@@ -26,10 +26,10 @@
                 "Seph-an",
                 "Rage"
             ],
-            "part_02": [
+            [
                 " the bard "
             ],
-            "part_03": [
+            [
                 "plays",
                 "sings",
                 "reads",
@@ -37,20 +37,20 @@
                 "tells",
                 "weaves"
             ],
-            "part_04": [
+            [
                 " a "
             ],
-            "part_05": [
+            [
                 "song",
                 "tale",
                 "story",
                 "spell",
                 "dance"
             ],
-            "part_06": [
+            [
                 " of "
             ],
-            "part_07": [
+            [
                 "TOTAL",
                 "COMPLETE",
                 "INFECTED",
@@ -62,7 +62,7 @@
                 "OPTIMISTIC",
                 "PESIMISTIC"
             ],
-            "part_08": [
+            [
                 " DISPAIR",
                 " ENNUI",
                 " UNEMPLOYMENT",
@@ -81,16 +81,16 @@
                 " GREED",
                 " KNOWLEDGE"
             ],
-            "part_09": [
+            [
                 ".\n"
             ],
-            "part_10": [
+            [
                 "All enemies are ",
                 "All allies are ",
                 "Target enemy is ",
                 "Target ally is "
             ],
-            "part_11": [
+            [
                 "stoned",
                 "unable to cope",
                 "taking a sick day",
@@ -122,12 +122,12 @@
                 "no longer playing",
                 "quitting the game"
             ],
-            "part_12": [
+            [
                 " for "
             ],
-            "part_13": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_14": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_15": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [
                 " turns",
                 " days",
                 " hours",
@@ -137,6 +137,6 @@
                 " rounds",
                 " player moves"
             ]
-        }
+        ]
     }
 }

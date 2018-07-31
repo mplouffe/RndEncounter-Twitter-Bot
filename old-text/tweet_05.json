@@ -3,17 +3,17 @@
         "config": {
             "numberOfElements": 19
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "You "
             ],
-            "part_02": [
+            [
                 "purchase",
                 "accquire",
                 "get",
                 "buy"
             ],
-            "part_03": [
+            [
                 " a DIRTY",
                 " a FILTHY",
                 " a BRAND NEW",
@@ -48,7 +48,7 @@
                 " a NEAR MINT",
                 " a VERY GOOD"
             ],
-            "part_04": [
+            [
                 " HELMET",
                 " SHIELD",
                 " SWORD",
@@ -85,13 +85,13 @@
                 " THORNY BRANCH",
                 " USED POT ROAST"
             ],
-            "part_05": [
+            [
                 " for "
             ],
-            "part_06": [ 1,2,3,4,5 ],
-            "part_07": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_08": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_09": [
+            [ 1,2,3,4,5 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [
                 " gold",
                 " coins",
                 " gems",
@@ -115,18 +115,18 @@
                 " seconds of eye contact",
                 " minutes of open mouth kissing"
             ],
-            "part_10": [
+            [
                 ".\n"
             ],
-            "part_11": [
+            [
                 "You gain +"
             ],
-            "part_12": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_13": [ 1,2,3,4,5,6,7,8,9,0 ],
-            "part_14": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [ 1,2,3,4,5,6,7,8,9,0 ],
+            [
                 " to your "
             ],
-            "part_15": [
+            [
                 "spelling score",
                 "final mark",
                 "street cred",
@@ -160,6 +160,6 @@
                 "feeling of warmth",
                 "retail therapy score"
             ]
-        }
+        ]
     }
 }

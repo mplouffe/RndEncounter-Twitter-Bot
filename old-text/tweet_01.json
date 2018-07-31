@@ -1,10 +1,11 @@
 {
     "tweet": {
         "config": {
-            "numberOfElements": 12 
+            "numberOfElements": 12,
+            "sample": "An ABNORMAL APPARITION approaches!!!\nYou equip your +2 Icy Sword of Death."
         },
-        "elements": {
-            "part_01": [
+        "elements": [
+            [
                 "An ABNORMAL ",
                 "A BEAUTIFUL ",
                 "A BESERK ",
@@ -50,8 +51,8 @@
                 "A TRAGIC ",
                 "A SUPERNATURAL "
             ], 
-            "part_02": [
-                "APPARATION",
+            [
+                "APPARITION",
                 "BEAST",
                 "BOGEYMAN",
                 "CAT",
@@ -90,19 +91,19 @@
                 "UNICORN",
                 "VAMPIRE"
             ], 
-            "part_03": [
+            [
                 " approaches",
                 " lurks",
                 " draws near",
                 " attacks"
             ],
-            "part_04": [
+            [
                 "!!! \n"
             ],
-            "part_05": [
+            [
                 "You "
             ],
-            "part_06": [
+            [
                 "equip",
                 "drop",
                 "grab",
@@ -110,12 +111,12 @@
                 "use",
                 "attack with"
             ],
-            "part_07": [
+            [
                 " your +",
                 " your -"
             ],
-            "part_08": [ 1,2,3,4,5,6,7,8,9 ],
-            "part_09": [
+            [ 1,2,3,4,5,6,7,8,9 ],
+            [
                 " Icy ",
                 " Firey ",
                 " Dazzling ",
@@ -135,7 +136,7 @@
                 " Giant ",
                 " Helpful "
             ],
-            "part_10": [
+            [
                 "Sword",
                 "Helmet",
                 "Ring",
@@ -154,10 +155,10 @@
                 "Pants",
                 "Glasses"
             ],
-            "part_11": [
+            [
                 " of "
             ], 
-            "part_12": [
+            [
                 "Death",
                 "Life",
                 "Dreams",
@@ -170,6 +171,6 @@
                 "Strength",
                 "Damage"
             ]
-        }
+        ]
     }
 }
