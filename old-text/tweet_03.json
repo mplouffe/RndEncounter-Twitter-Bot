@@ -1,0 +1,144 @@
+{
+    "tweet": {
+        "config": {
+            "numberOfElements": 19
+        },
+        "elements": {
+            "part_01": [
+                "The "
+            ],
+            "part_02": [
+                "BULKY ",
+                "THICK ",
+                "STOCKY ",
+                "FOUL ",
+                "MISUNDERSTOOD ",
+                "MUMBLING "
+            ],
+            "part_03": [
+                "APPARATION",
+                "BEAST",
+                "BOGEYMAN",
+                "CAT",
+                "BAT",
+                "CLOCK",
+                "CONJURER",
+                "CHANGELING",
+                "CREATURE",
+                "CROW",
+                "DEMON",
+                "DOG",
+                "DWARF",
+                "DRAGON",
+                "ELF",
+                "ELK",
+                "FAIRY",
+                "GHOST",
+                "GNOME",
+                "GOBLIN",
+                "HAG",
+                "HORROR",
+                "IMP",
+                "MAGICIAN",
+                "MONSTER",
+                "NECROMANCER",
+                "OGRE",
+                "OWL",
+                "PIXIE",
+                "WEREWOLF",
+                "SNAKE",
+                "SORCERER",
+                "SKELETON",
+                "ORC",
+                "MUMMY",
+                "INSECT",
+                "UNICORN",
+                "VAMPIRE"
+            ],
+            "part_04": [
+                " is "
+            ],
+            "part_05": [
+                "killed",
+                "destroyed",
+                "buried",
+                "vanquished",
+                "eliminated",
+                "murdered",
+                "dead",
+                "slain",
+                "obliterated"
+            ],
+            "part_06": [
+                "!!!\n"
+            ],
+            "part_07": [
+                "Gain "
+            ],
+            "part_08": [ 1,2,3,4,5,6,7,8,9 ],
+            "part_09": [ 1,2,3,4,5,6,7,8,9,0 ],
+            "part_10": [
+                " EXP.\n"
+            ],
+            "part_11": [
+                "Gain "
+            ],
+            "part_12": [ 1,2,3,4,5,6,7,8,9 ],
+            "part_13": [ 1,2,3,4,5,6,7,8,9,0 ],
+            "part_14": [
+                " Bronze",
+                " Silver",
+                " Gold",
+                " Diamond",
+                " Gil",
+                " Rupees",
+                " Dollars",
+                " Proofs of Purchase",
+                " Loyalty Points",
+                " Reward Miles",
+                " Slimy Coins"
+            ],
+            "part_15": [
+                ".\n"
+            ],
+            "part_16": [
+                "Found "
+            ],
+            "part_17": [ 2,3,4,5,6 ],
+            "part_18": [
+                " Vintage",
+                " Lucky",
+                " Chaotic",
+                " Power",
+                " Retro",
+                " 90's",
+                " 80's",
+                " Plazma",
+                " Sci-Fi ",
+                " Low Budget",
+                " High Caffine",
+                " Tasteful",
+                " Elegant",
+                " Collector's",
+                " Ornate",
+                " Gold"
+            ],
+            "part_19": [
+                " Potions.",
+                " Beads.",
+                " Jewels.",
+                " Crystals.",
+                " Beans.",
+                " Seeds.",
+                " Plants.",
+                " Gems.",
+                " Sauces.",
+                " Books.",
+                " Items.",
+                " Boxes.",
+                " Cases.",
+                " Buttons."
+            ]
+        }
+    }
+}

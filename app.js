@@ -18,3 +18,4 @@ client.post('statuses/update', {status: 'Rnd Encounter Tweet generated in Node.j
         console.log('Error!');
         console.log(err);
     });
+

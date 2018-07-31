@@ -1,0 +1,110 @@
+{
+    "tweet": {
+        "config": {
+            "numberOfElements": 14
+        },
+        "elements": {
+            "part_01": [
+                "You "
+            ],
+            "part_02": [
+                "attack",
+                "lunge at",
+                "stab",
+                "shiv",
+                "shoot",
+                "hit",
+                "thrust through",
+                "slap",
+                "jab",
+                "uppercut",
+                "fireball",
+                "lightning bolt",
+                "ice spike",
+                "poke",
+                "belittle",
+                "emotionally wound"
+            ],
+            "part_03": [
+                " the "
+            ],
+            "part_04": [
+                "DARK ",
+                "UNDEAD ",
+                "SMELLY ",
+                "FARTING ",
+                "CRYING ",
+                "WAILING ",
+                "HOLY ",
+                "FIREY ",
+                "ICY ",
+                "WINDY ",
+                "ROCKY ",
+                "DIRTY ",
+                "UNUSUALLY CLEAN ",
+                "GENDER NEUTRAL ",
+                "UNHOLY "
+            ],
+            "part_05": [
+                "BAT",
+                "CAT",
+                "ZOMBIE",
+                "MONSTER",
+                "MUMMY",
+                "SLIME",
+                "WITCH",
+                "SKELETON",
+                "ELF",
+                "ORC",
+                "GOBLIN",
+                "SPRITE",
+                "SPIRIT",
+                "GHOST",
+                "PHANTASM",
+                "WIZARD",
+                "WARLOCK",
+                "SORCERER"
+            ],
+            "part_06": [
+                "!!!\n"
+            ],
+            "part_07": [
+                "Terrible ",
+                "MASSIVE ",
+                "Crucial ",
+                "Critical ",
+                "Sloppy ",
+                "Glancing ",
+                "Perfect ",
+                "Well timed ",
+                "First ",
+                "Final ",
+                "Killing "
+            ],
+            "part_08": [
+                "blow",
+                "strike",
+                "hit",
+                "attack"
+            ],
+            "part_09": [
+                "!!!\n"
+            ],
+            "part_10": [
+                "You "
+            ],
+            "part_11": [
+                "deal ",
+                "attack for ",
+                "hit for ",
+                "cause ",
+                "inflict "
+            ],
+            "part_12": [ 1,2,3,4,5,6,7,8,9 ],
+            "part_13": [ 1,2,3,4,5,6,7,8,9,0 ],
+            "part_14": [
+                " damage!!!"
+            ]
+        }
+    }
+}
