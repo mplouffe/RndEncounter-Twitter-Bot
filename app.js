@@ -1,5 +1,9 @@
 require('./config/config');
 const Twitter = require('twitter');
+const { generateTextTweet } = require('./text-tweet-generator/tweet-generator');
+
+const eightHours = 28800000;
+const fiveSeconds = 5000;
 
 const client = new Twitter({
     consumer_key: process.env.TWITTER_CONSUMER_KEY,
@@ -9,7 +13,7 @@ const client = new Twitter({
 });
 
 
-client.post('statuses/update', {status: 'Rnd Encounter Tweet generated in Node.js'})
+client.post('statuses/update', {status: 'Rnd Encounter is up and running!'})
     .then((tweet) => {
         console.log("Success");
         console.log(tweet);
@@ -19,3 +23,8 @@ client.post('statuses/update', {status: 'Rnd Encounter Tweet generated in Node.j
         console.log(err);
     });
 
+
+setInterval(() => {
+    const status = generateTextTweet();
+    client.post('status/update', { status })
+}, fiveSeconds);
