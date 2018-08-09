@@ -24,14 +24,17 @@ client.post('statuses/update', {status: 'RndEncounter is up and running.'})
 setInterval(() => {
     generateTextTweet()
         .then((status) => {
+            console.log(status);
             return client.post('statuses/update', { status: status });
         })
         .then((tweet) => {
-            // console.log('Successful tweet!')
+            console.log('Successful tweet!')
         })
         .catch((err) => {
             console.log('ERR!: ', err);
         });
 }, 28800000);
+
+app.get('/', (req, res) => res.send('Bot is running...'));
 
 app.listen(PORT, () => console.log(`Rnd Encounter up and running on ${PORT}`));
