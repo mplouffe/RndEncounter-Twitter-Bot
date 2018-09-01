@@ -13,14 +13,6 @@ const client = new Twitter({
     access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 });
 
-client.post('statuses/update', {status: 'RndEncounter is up and running.'})
-    .then(() => {
-        console.log('Success!');
-    })
-    .catch((err) => {
-        console.log('ERR: ', err);
-    });
-
 setInterval(() => {
     generateTextTweet()
         .then((status) => {
