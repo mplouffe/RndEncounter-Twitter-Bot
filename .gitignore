@@ -74,3 +74,7 @@ typings/
 
 # contains page access token and verify token in plain text
 config/config.json
+
+# images
+playground/*.png
+playground/*.jpg
